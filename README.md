@@ -55,18 +55,16 @@ El sistema está compuesto por:
 
 ---
 
-## 🗺️ Esquema del sistema
+## 🗺️ Logica del sistema
 
 El esquema completo del sistema se encuentra en el archivo PDF del repositorio:
 
 📄 `Esquema_Proceso_Mezcla.pdf`
 
-Este documento incluye:
-
-- Diagrama de conexiones  
-- Entradas y salidas del PLC  
-- Representación de sensores y actuadores  
 - Lógica general del sistema  
+
+(docs/Ladder1.1.png)
+(docs/Ladder2.png)
 
 👉 Es clave para entender la integración hardware–control.
 
@@ -81,14 +79,6 @@ El proceso sigue una secuencia automática:
 3. Llenado del tanque final
 4. Activación del agitador por tiempo determinado  
 5. Descarga del tanque final 
-
----
-
-## 🛠️ Tecnologías utilizadas
-
-- PLC (programación Ladder)  
-- Simulación de procesos industriales  
-- Modelado de sistemas secuenciales  
 
 ---
 
