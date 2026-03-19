@@ -75,15 +75,12 @@ Este documento incluye:
 ## 🔄 Lógica de control (resumen)
 
 El proceso sigue una secuencia automática:
-
-1. Verificación de condiciones iniciales  
-2. Llenado con líquido A hasta nivel definido  
-3. Llenado con líquido B  
+ 
+1. Llenado con líquido A hasta nivel definido  
+2. Llenado con líquido B  
+3. Llenado del tanque final
 4. Activación del agitador por tiempo determinado  
-5. Descarga del tanque  
-6. Reinicio del ciclo  
-
-Este tipo de control es típico en sistemas batch industriales, donde la secuencia garantiza la calidad del producto.
+5. Descarga del tanque final 
 
 ---
 
@@ -125,8 +122,3 @@ La automatización mediante PLC permite lograr:
 ## 👨‍💻 Autor
 
 **Emanuel Decima**  
-Estudiante avanzado de Ingeniería Electrónica  
-Orientación: Automatización e Instrumentación Industrial  
-
-🔗 GitHub: https://github.com/EmanuelDecima  
-🔗 LinkedIn: https://www.linkedin.com/in/enrique-emanuel-d%C3%A9cima-5934b720b/
