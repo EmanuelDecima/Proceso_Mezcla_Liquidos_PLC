@@ -66,9 +66,6 @@ El esquema completo del sistema se encuentra en el archivo PDF del repositorio:
 ![Ladder1](docs/Ladder1.1.png)
 ![Ladder2](docs/Ladder2.png)
 
-
-👉 Es clave para entender la integración hardware–control.
-
 ---
 
 ## 🔄 Lógica de control (resumen)
