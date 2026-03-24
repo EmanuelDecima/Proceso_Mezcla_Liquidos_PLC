@@ -70,8 +70,9 @@ El esquema completo del sistema se encuentra en el archivo PDF del repositorio:
 
 - Lógica general del sistema  
 
-![Ladder1](docs/Ladder1.1.png)
+![Ladder1](docs/Ladder1.png)
 ![Ladder2](docs/Ladder2.png)
+![Ladder3](docs/Ladder3.png)
 
 ---
 
